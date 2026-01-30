@@ -1,4 +1,4 @@
-# Hi, I’m Anika!!
+# Hi, I’m Anika!!😼
 
 ## About me
 ✮ Computational Cognitive Science student at the University of Toronto (2024–2028)  
@@ -9,14 +9,14 @@ Outside of school/work: I’m into **clothing**, **rock climbing**, and **films!
 
 ---
 
-## 🔗 Connect with me
+##  ✮ Connect with me :)
 -  Email: anikakpillai@gmail.com  
 - LinkedIn: https://linkedin.com/in/anika-pillai  
 - GitHub: https://www.linkedin.com/in/anika-pillai-833765338/ 
 
 ---
 
-## 💼 What I’m doing right now
+## ✮ What I’m doing right now
 **Business & Performance Analyst @ Lighthouse Dental & Implant Center (Dec 2024 – Present)**  
 - Leading analytics-driven initiatives to improve ops efficiency, decision-making, and user experience  
 - Turning internal data into automated, tech-enabled workflows (scheduling + patient engagement)  
@@ -28,7 +28,7 @@ Outside of school/work: I’m into **clothing**, **rock climbing**, and **films!
 
 ---
 
-## Projects
+## ✮ Projects
 ### 💳 SmartSpend — AI-Powered Personal Finance App
 - Built transaction categorization logic using AI for bank statement data  
 - Implemented filtering/search by date, category, keywords  
@@ -36,7 +36,7 @@ Outside of school/work: I’m into **clothing**, **rock climbing**, and **films!
 
 ---
 
-## Tech Stack
+## ✮ Tech Stack
 ## 💻 Tech Stack
 
 <p align="left">
@@ -67,7 +67,7 @@ Outside of school/work: I’m into **clothing**, **rock climbing**, and **films!
 </p>
 
 
-**Languages:** Python · Java · JavaScript · SQL  
-**Tools:** Git · GitHub · GitHub Actions · IntelliJ · Hugging Face · Figma · Google Cloud · Power BI · ADIT Dental Analytics  
+**✮ Languages:** Python · Java · JavaScript · SQL  
+**✮ Tools:** Git · GitHub · GitHub Actions · IntelliJ · Hugging Face · Figma · Google Cloud · Power BI · ADIT Dental Analytics  
 
 ---
