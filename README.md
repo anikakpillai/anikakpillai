@@ -71,6 +71,3 @@ Outside of school/work: I’m into **clothing**, **rock climbing**, and **films!
 **Tools:** Git · GitHub · GitHub Actions · IntelliJ · Hugging Face · Figma · Google Cloud · Power BI · ADIT Dental Analytics  
 
 ---
-
-## 📌 Pinned Projects
-Go to your profile → scroll down → **Customize your pins** → pin 2–6 projects you want people to see first.
