@@ -1,54 +1,52 @@
 <div align="center">
 
 # ANIKA PILLAI
-<sub>Computational Cognitive Science · UofT (2024–2028) · Product / AI / Analytics</sub>
+<sub>Computational Cognitive Science · UofT · building systems with taste + teeth</sub>
 
 <br/>
 
-<sub>
-fashion · rock climbing · philosophy
-</sub>
+<sub><b>fashion</b> · rock climbing · philosophy</sub>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/anika-pillai">LinkedIn</a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
 &nbsp;·&nbsp;
-<a href="mailto:anikakpillai@gmail.com">Email</a>
+<a href="mailto:YOUR_EMAIL">Email</a>
 &nbsp;·&nbsp;
-<a href="https://github.com/anikakpillai">GitHub</a>
+<a href="https://github.com/YOUR_USERNAME">GitHub</a>
 
 </div>
 
 ---
 
-## 0/ About
-I build practical systems at the intersection of **data**, **product**, and **human behavior**.  
-Currently: analytics + workflow automation + AI-enabled tools.
-
-<sub>Focus: product development, AI-enabled systems, workflow automation, human-centered design.</sub>
+## ⚡ manifesto
+I like ideas that ship. I like systems that bite back.
 
 ---
 
-## 1/ Selected work
-- **SmartSpend** — AI-assisted personal finance workflows (classification, search/filter, summaries)
-- **Ops / analytics** — internal automation & decision support (Lighthouse Dental)
-
-<sub>Pin 2–4 repos you’re proud of. A small rack beats an overflowing closet.</sub>
+## 🧷 about
+I work at the intersection of **data**, **product**, and **human behavior** —  
+building tools that are useful *and* opinionated.
 
 ---
 
-## 2/ Toolkit
-**Languages:** Python · Java · JavaScript · SQL  
-**Tools:** Git/GitHub · GitHub Actions · Figma · GCP · Power BI
+## 🧨 tech stack (loud on purpose)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,nextjs,html,css,flask,mongodb,mysql,git,github,githubactions,aws,gcp,firebase,figma,tensorflow,pytorch&perline=11" />
+</p>
 
 ---
 
-## 3/ Quiet metrics (optional)
+## 🧵 selected work
+- **SmartSpend** — AI-assisted personal finance workflows (classification + search + summaries)
+- **Ops / analytics** — automation & decision support tools (dashboards, reporting, workflow improvements)
+
+<sub>Pin 2–4 repos. Curate like a runway, not a warehouse.</sub>
+
+---
+
+## 🎛️ stats (optional)
 <div align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=anikakpillai&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=github_dark&bg_color=00000000" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikakpillai&layout=compact&hide_title=true&theme=github_dark&bg_color=00000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </div>
-
-<sub>
-Minimal note: language stats reflect repo composition, not skill.
-</sub>
