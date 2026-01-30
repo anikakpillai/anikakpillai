@@ -1,52 +1,58 @@
-<div align="center">
+# Hi, I’m Anika!!
 
-# ANIKA PILLAI
-<sub>Computational Cognitive Science · UofT · building systems with taste + teeth</sub>
+## About me
+✮ Computational Cognitive Science student at the University of Toronto (2024–2028)  
+✮ Double Minor: Computer Science + Statistics  
+✮ I’m interested in product development at the intersection of **tech + business**, where **data, systems, and human-centered design** drive impact.
 
-<br/>
-
-<sub><b>fashion</b> · rock climbing · philosophy</sub>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="mailto:YOUR_EMAIL">Email</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>
-
-</div>
+Outside of school/work: I’m into **clothing**, **rock climbing**, and **films!!**.
 
 ---
 
-## ⚡ manifesto
-I like ideas that ship. I like systems that bite back.
+## 🔗 Connect with me
+-  Email: anikakpillai@gmail.com  
+- LinkedIn: https://linkedin.com/in/anika-pillai  
+- GitHub: https://www.linkedin.com/in/anika-pillai-833765338/ 
 
 ---
 
-## 🧷 about
-I work at the intersection of **data**, **product**, and **human behavior** —  
-building tools that are useful *and* opinionated.
+## 💼 What I’m doing right now
+**Business & Performance Analyst @ Lighthouse Dental & Implant Center (Dec 2024 – Present)**  
+- Leading analytics-driven initiatives to improve ops efficiency, decision-making, and user experience  
+- Turning internal data into automated, tech-enabled workflows (scheduling + patient engagement)  
+- Collaborating on product strategy + AI-informed system improvements  
+
+**Marketing Director @ UofT BizTech Association (Nov 2025 – Present)**  
+**Marketing Director @ UofT Quantum Computing Club (Sep 2025 – Present)**  
+**External Relations Associate @ Women in Computer Science (WiCS) (Sep 2025 – Present)**  
 
 ---
 
-## 🧨 tech stack (loud on purpose)
+## 🧪 Featured project
+### 💳 SmartSpend — AI-Powered Personal Finance App
+- Built transaction categorization logic using AI for bank statement data  
+- Implemented filtering/search by date, category, keywords  
+- Contributed to monthly spending summaries + data pipelines for user-facing insights  
+
+---
+
+## 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,nextjs,html,css,flask,mongodb,mysql,git,github,githubactions,aws,gcp,firebase,figma,tensorflow,pytorch&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql,mysql,git,github,githubactions,figma,gcp&perline=11" />
+</p>
+
+**Languages:** Python · Java · JavaScript · SQL  
+**Tools:** Git · GitHub · GitHub Actions · IntelliJ · Hugging Face · Figma · Google Cloud · Power BI · ADIT Dental Analytics  
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anikakpillai&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikakpillai&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧵 selected work
-- **SmartSpend** — AI-assisted personal finance workflows (classification + search + summaries)
-- **Ops / analytics** — automation & decision support tools (dashboards, reporting, workflow improvements)
-
-<sub>Pin 2–4 repos. Curate like a runway, not a warehouse.</sub>
-
----
-
-## 🎛️ stats (optional)
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</div>
+## 📌 Pinned Projects
+Go to your profile → scroll down → **Customize your pins** → pin 2–6 projects you want people to see first.
